@@ -1,0 +1,25 @@
+# Build
+.build/
+DerivedData/
+*.o
+*.d
+
+# Xcode
+*.xcuserdata
+*.xcworkspace/xcuserdata
+*.xcodeproj/xcuserdata
+*.xcodeproj/project.xcworkspace/xcshareddata
+
+# SwiftPM
+/.swiftpm/
+
+# macOS
+.DS_Store
+Icon?
+._*
+*.swp
+*.swo
+
+# App support data (user local, not to commit)
+# Uncomment if you want to exclude user data:
+# ~/Library/Application Support/StudyBar/
