@@ -2,6 +2,10 @@
 
 A macOS menu bar app for focused studying. Quick capture, Pomodoro timer, flashcards, spaced revision scheduling, exam countdowns, and distraction tracking — all from the menu bar.
 
+
+https://github.com/user-attachments/assets/98f5ea2c-e025-4c6d-98d9-30176f37b344
+
+
 ## Features
 
 - **Quick Capture** — `⌘⇧Space` to capture tasks from anywhere
